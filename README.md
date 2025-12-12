@@ -2,6 +2,7 @@
 ## 📖 简介 (Introduction) [English](README_EN.md) | [中文](README.md)
 
 **UcardPay** 是加密货币发卡与支付管理系统。它旨在帮助快速搭建自己的U卡分发平台，支持Visa/Mastercard虚拟卡/实体卡批量开户、USDT 自动充值、法币实时结算以及完整的代理商分销体系。
+类似于THPAY / WildCard 等U卡虚拟卡项目
 
 ## ✨ 核心特性 (Features)
 
