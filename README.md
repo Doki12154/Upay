@@ -1,4 +1,5 @@
-## 📖 简介 (Introduction)
+
+## 📖 简介 (Introduction) [English](README_EN.md) | [中文](README.md)
 
 **UPay** 是企业级加密货币发卡与支付管理系统。它旨在帮助企业快速搭建自己的 U 卡分发平台，支持虚拟卡批量开户、USDT 自动充值、法币实时结算以及完整的代理商分销体系。
 
